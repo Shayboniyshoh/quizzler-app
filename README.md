@@ -1,6 +1,8 @@
 # quizzler
 
-A new Flutter project.
+A new Flutter project called Quizzler App.
+
+![quizzler_app](https://github.com/Shayboniyshoh/quizzler-app/assets/47345004/ba0cd300-aeb0-4385-822e-2e368bc3882e)
 
 ## Getting Started
 
